@@ -57,10 +57,10 @@ def validar_senha(senha):
     else:
         return "Senha fraca. Requisitos ausentes: " + ", ".join(erros)
 
-#Teste do programa
-senha_usuario = input("Digite sua senha para validar: ")
-resultado = validar_senha(senha_usuario)
-print(resultado)
+   #Teste do programa
+    senha_usuario = input("Digite sua senha para validar: ")
+    resultado = validar_senha(senha_usuario)
+    print(resultado)
 
 Justificativa das Estruturas Utilizadas
 
