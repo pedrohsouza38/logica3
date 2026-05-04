@@ -86,9 +86,9 @@ Resultado Esperado: Alerta de "Resfriamento ativado".
 import time
 import random
 
-#Monitor de Temperatura de Servidor
+   #Monitor de Temperatura de Servidor
 
-#Configurações do sistema
+   #Configurações do sistema
 TEMPERATURA_LIMITE = 80  # °C
 INTERVALO_LEITURA = 2    # segundos entre leituras
 
